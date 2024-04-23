@@ -1,0 +1,6 @@
+best tolerance: 10
+best resolution: 30
+best bins: 30
+best error: 0.08743042064699479
+best shape file path: D:\Python Projects\farmvibes-ai\data_dump\data\assets/b0fd150d-16bc-4c82-a306-56b8c6f73b4f/result.zip
+best raster path: D:\Python Projects\farmvibes-ai\data_dump\data\assets/f540d69a-2bfb-45bd-8c64-d0214f22fad2/raster_output.tif

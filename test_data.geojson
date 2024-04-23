@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "Moisture": 0.1992020457983017, "Temperature": 13.518500328063965 }, "geometry": { "type": "Point", "coordinates": [ -84.14510205, 33.809716599999987 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.15856209397315979, "Temperature": 13.749899864196777 }, "geometry": { "type": "Point", "coordinates": [ -84.136983083333348, 33.807950333333338 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.27179110050201416, "Temperature": 14.174500465393066 }, "geometry": { "type": "Point", "coordinates": [ -84.135109500000013, 33.80761845 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.20142577588558197, "Temperature": 15.231100082397461 }, "geometry": { "type": "Point", "coordinates": [ -84.1326585, 33.802695916666664 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.28621405363082886, "Temperature": 14.287099838256836 }, "geometry": { "type": "Point", "coordinates": [ -84.160347983333324, 33.81288528333333 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.19422055780887604, "Temperature": 12.643500328063965 }, "geometry": { "type": "Point", "coordinates": [ -84.147921466666673, 33.810318466666658 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.19979876279830933, "Temperature": 15.843600273132324 }, "geometry": { "type": "Point", "coordinates": [ -84.141509866666667, 33.7959288 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.19922402501106262, "Temperature": 16.906000137329102 }, "geometry": { "type": "Point", "coordinates": [ -84.134083233333342, 33.8065819 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.26651754975318909, "Temperature": 15.968600273132324 }, "geometry": { "type": "Point", "coordinates": [ -84.134028799999982, 33.79936525 ] } },
+{ "type": "Feature", "properties": { "Moisture": 0.11760798841714859, "Temperature": 19.418300628662109 }, "geometry": { "type": "Point", "coordinates": [ -84.154199333333324, 33.79859585 ] } }
+]
+}

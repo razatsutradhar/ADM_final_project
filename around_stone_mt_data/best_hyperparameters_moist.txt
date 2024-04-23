@@ -1,0 +1,6 @@
+best tolerance: 1
+best resolution: 50
+best bins: 4
+best error: 0.0883544345294088
+best shape file path: C:\Users\razat\.cache\farmvibes-ai\data\assets/8f55573b-87c1-432a-bd3d-856e1cc2c7e5/result.zip
+best raster path: C:\Users\razat\.cache\farmvibes-ai\data\assets/576d697a-80c2-4dcf-8b7b-77d27c441415/raster_output.tif
